@@ -1,0 +1,4 @@
+1- AuthContext is handling the states of entire application.
+2- authContext used to gather the info
+3- returnContext function used to grab the all contexts which used later on
+4- auth.onAuthStateChanged method used to grab the all users authenticate from the firebase 
